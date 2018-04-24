@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musica>
+	<cancion>
+		<artista>Carlos</artista>
+		<album>Por instinto</album>
+		<titulo>Los tres patitos</titulo>
+		<genero>Infantil</genero>
+		<portada>http://localhost/wp495/musica/portadas/patitos.jpg</portada>
+		<audio>http://localhost/wp495/musica/pato.mp3</audio>
+	</cancion>
+	<cancion>
+		<artista>Anyela</artista>
+		<album>Por aficion</album>
+		<titulo>Dale Ramon</titulo>
+		<genero>Bebe</genero>
+		<portada>http://localhost/wp495/musica/portadas/ramoncito.png</portada>
+		<audio>http://localhost/wp495/musica/ramon.mp3</audio>
+	</cancion>
+</musica>
