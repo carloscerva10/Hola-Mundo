@@ -30,7 +30,7 @@
 
 	</head>
 	<body>
-		<h1>Musica Infantil</h1>
+		<h1>Musica Infantilllllllllll</h1>
 		<!--Iniciamos la primera cancion por defecto-->
 		<div id="playlist">
 			<img id="portada" src="<?php echo $musica->cancion[0]->portada ?>">
