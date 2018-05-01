@@ -26,7 +26,7 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h1>CLIENTE CARLOS</h1>
+		<h1>CLIENTE CARLOS y JAVIER</h1>
 		Ingrese alguno de los siguientes productos: <strong>zapatos, pantalones, camisa</strong>
 		<hr>
 		<form method="post" action="">
@@ -34,8 +34,8 @@
 			<input type="submit" name="enviar">
 		</form>
 		<hr>
-		<h3><?php 
-		if (isset($_POST["producto"])) echo $resultado 
+		<h3><?php
+		if (isset($_POST["producto"])) echo $resultado
 		?></h3>
 	</body>
 </html>
