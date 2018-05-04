@@ -26,7 +26,7 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h1>CLIENTE MASTER</h1>
+		<h1>CLIENTE MASTER-ope2</h1>
 		Ingrese alguno de los siguientes productos: <strong>zapatos, pantalones, camisa</strong>
 		<hr>
 		<form method="post" action="">
