@@ -1,0 +1,129 @@
+/*
+Theme Name: wpi77
+Author: CGI
+Author URI: https://wordpress.org/
+Description: Aplicación de prueba I77
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: wpi77
+*/
+
+/* Header */
+header {
+	background-color: #2a1000;
+	padding: 100px 0;
+}
+.social-header2 {
+	margin-top: -5px;
+}
+
+.social-header {
+	margin-top: 12px;
+}
+
+	.social-header a {
+		color: #fff;
+	}
+	
+		.social-header a .fa-inverse {
+			color: #2a1000;
+		}
+
+/* Footer */
+footer {
+	background-color: #f6b92a;
+	font-size: 12px;
+	padding: 10px 0;
+}
+
+	footer ul {
+		margin-bottom: 0;
+	}
+
+	footer a:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+
+
+/* General */
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #291701;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0.67em 0;
+}
+
+hr {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	height: 0;
+	overflow: visible;
+}
+
+a {
+	background-color: transparent;
+	-webkit-text-decoration-skip: objects;
+}
+
+a:active,
+a:hover {
+	outline-width: 0;
+}
+img {
+	border-style: none;
+}
+
+/* Content */
+
+/* Main */
+#main > .container {
+	box-shadow: 0 7px 18px rgba(0, 0, 0, .5);
+}
+/* Menus */
+.menu-bar {
+	background-color: #ffbc01;
+	margin-top: 20px;
+}
+	.menu-bar a {
+		color: #2a1000;
+		font-size: 16px;
+		font-weight: 500;
+	}
+	
+	.menu-bar a:hover {
+		text-decoration: none;
+		color: #fff;
+	}
+
+.menu-list {
+	padding: 12px 0;
+	margin-bottom: 0;
+}
+	.menu-list > li:not(:last-child) {
+		margin-right: 40px;
+	}
+
+/*--------------------------------------------------------------
+10.0 Links
+--------------------------------------------------------------*/
+
+a {
+	color: #222;
+	text-decoration: none;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:hover,
+a:active {
+	color: #000;
+	outline: 0;
+}

@@ -1,0 +1,33 @@
+{
+    "result": 0,
+    "description": "Información no disponible",
+    "rates": [
+        {
+            "rateId": 11,
+            "gantryId": 21,
+            "vehicleClassId": 31,
+            "rateStartDate": "2017-02-28T10:00:00",
+            "rateEndDate": "2017-02-28T11:00:00",
+            "rateAmountTag": 1.1,
+            "rateAmountVideo": 2.1
+        },
+        {
+            "rateId": 12,
+            "gantryId": 22,
+            "vehicleClassId": 32,
+            "rateStartDate": "2017-03-25T12:00:00",
+            "rateEndDate": "2017-03-25T13:00:00",
+            "rateAmountTag": 1.2,
+            "rateAmountVideo": 2.2
+        },
+        {
+            "rateId": 13,
+            "gantryId": 23,
+            "vehicleClassId": 33,
+            "rateStartDate": "2017-04-25T12:00:00",
+            "rateEndDate": "2017-04-25T13:00:00",
+            "rateAmountTag": 1.3,
+            "rateAmountVideo": 2.3
+        }
+    ]
+}

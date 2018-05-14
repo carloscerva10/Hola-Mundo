@@ -1,0 +1,24 @@
+{
+    "result": 0,
+    "description": "Información disponible",
+    "speeds": [
+        {
+            "currentSpeed": 11,
+            "segmentId": 21,
+            "roadwayType": 31,
+            "dataTimestamp": "2018-02-28T10:00:00"
+        },
+        {
+            "currentSpeed": 12,
+            "segmentId": 22,
+            "roadwayType": 32,
+            "dataTimestamp": "2018-03-01T11:00:00"
+        },
+        {
+            "currentSpeed": 13,
+            "segmentId": 23,
+            "roadwayType": 33,
+            "dataTimestamp": "2018-03-02T12:00:00"
+        }
+    ]
+}
